@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+PyMuPDFb==1.24.10
+openai==1.42.0
+python-dotenv==1.0.0
